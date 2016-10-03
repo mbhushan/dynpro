@@ -1,6 +1,6 @@
-## Dynamic Programming
--
-Dynamic Programming Repository - From Basics to Absolute Magic.
+# Dynamic Programming
+
+##Dynamic Programming Repository - From Basics to Absolute Magic.
 
 #### Motivation:
 - Compile an exhaustive list of Dynamic Programming problem/solution.
